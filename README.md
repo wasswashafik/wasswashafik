@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://scholar.google.com/citations?user=xx9fMxYAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=xx9fMxYAAAAJ&hl=en&oi=ao)
 
-- 💬 Ask me about **Plant Pathology, Computer Security**
+- 💬 Ask me about **Plant Pathology, Computer Security, Medical Internet of Things**
 
 - 📫 How to reach me **wasswashafik@gmail.com**
 
