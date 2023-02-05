@@ -37,7 +37,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/wasswa-shafik-3a129b220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wasswa-shafik-3a129b220/" height="30" width="40" /></a>
 <p align="left">
-<a href="https://kaggle.com/https://www.kaggle.com/wasswashafik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/wasswashafik" height="30" width="40" /></a>
+<a href="https://kaggle.com/wasswashafik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/wasswashafik" height="30" width="40" /></a>
 <p align="left">
 <a href="https://twitter.com/wasswashafik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/wasswashafik" height="30" width="40" /></a>
 </p>
