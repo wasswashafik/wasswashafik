@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wasswa Shafik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate plant pathology and network security researcher</h3>
 
 - 🔭 I’m currently working on [Plant Disease Detection](https://en.wikipedia.org/wiki/Plant_pathology)
 
