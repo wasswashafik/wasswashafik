@@ -39,5 +39,5 @@
 <p align="left">
 <a href="https://kaggle.com/https://www.kaggle.com/wasswashafik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/wasswashafik" height="30" width="40" /></a>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/wasswashafik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/wasswashafik" height="30" width="40" /></a>
+<a href="https://twitter.com/wasswashafik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/wasswashafik" height="30" width="40" /></a>
 </p>
