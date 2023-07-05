@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **Plant Pathology, Computer Security, Medical Internet of Things**
 
-- 📫 How to reach me **wasswashafik@gmail.com**
+- 📫 How to reach me **wasswashafik@dcrlab.org**
 
-- ⚡ Fun fact **I often prefer peace to being right.**
+- ⚡ Fun fact **I often prefer peace to be right.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
