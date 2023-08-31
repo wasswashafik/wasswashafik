@@ -1,11 +1,11 @@
 <h1 align="center">Welcome 👋, I'm Wasswa Shafik</h1>
-<h3 align="center">A passionate plant pathology and network security researcher</h3>
+<h3 align="center">A passionate Artificial Intelligence, Computer Vision and Privacy & security researcher</h3>
 
 - 🔭 I’m currently working on [Plant Disease Detection](https://en.wikipedia.org/wiki/Plant_pathology)
 
-- 🌱 I’m currently learning **Bio-Medical computation**
+- 🌱 I’m currently learning **Image Processing computation**
 
-- 👯 I’m looking to collaborate on [interdisciplinary research](https://en.wikipedia.org/wiki/Interdisciplinarity)
+- 👯 I’m looking to collaborate on [interdisciplinary research](https://sites.google.com/view/wasswashafik/publication?authuser=0)
 
 - 🤝 I’m looking for help with **funding**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://scholar.google.com/citations?user=xx9fMxYAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=xx9fMxYAAAAJ&hl=en&oi=ao)
 
-- 💬 Ask me about **Plant Pathology, Computer Security, Medical Internet of Things**
+- 💬 Ask me about **Ecological Informatics, Computer Vision, AI-enabled IoTs/IoMTs/IIoTs, Smart Cities, Cyber security and Privacy**
 
 - 📫 How to reach me **wasswashafik [at] dcrlab [dot] org**
 
