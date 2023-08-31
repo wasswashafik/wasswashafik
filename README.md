@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Image Processing computation**
 
-- 👯 I’m looking to collaborate on [interdisciplinary research](https://sites.google.com/view/wasswashafik/publication?authuser=0)
-
-- 🤝 I’m looking for help with **funding**
+- 👯 I’m looking to collaborate on [Interdisciplinary Research](https://sites.google.com/view/wasswashafik/publication?authuser=0)
 
 - 👨‍💻 All of my projects are available at [Wasswa Shafik Website]([https://www.researchgate.net/profile/Wasswa-Shafik-2](https://sites.google.com/view/wasswashafik/publication?authuser=0)
 
