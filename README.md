@@ -1,5 +1,9 @@
 <h1 align="center">Welcome 👋, I'm Wasswa Shafik</h1>
-<h3 align="center">A passionate Artificial Intelligence, Computer Vision and Privacy & security researcher</h3>
+<h3 align="center"> Artificial Intelligence, Computer Vision and Privacy & Security researcher</h3>
+
+Wasswa Shafik (Member, IEEE) received a Bachelor of Science degree in information technology engineering with a minor in mathematics from Ndejje University, Kampala, Uganda, in 2016, and a Master of Engineering degree in information technology engineering (MIT) from Yazd University, Yazd, Iran, in 2020. He is currently a SDS researcher. He is also the Founder and an investigator of the Dig Connectivity Research Laboratory (DCRLab), after serving as a Research Associate at the Network Interconnectivity Research Laboratory, Yazd University. Before this, he worked as a Community Data Analyst at Population Services International (PSI-Uganda), a community data officer at the Programme for Accessible Health Communication (PACE-Uganda), a research assistant at the Socio-Economic Data Centre (SEDC-Uganda), the Prime Minister’s Office, Kampala, Uganda, an Assistant Data Officer at TechnoServe, Kampala, IT Support at Thurayya Islam Media, Uganda, and the Asmaah Charity Organization. He has more than 60+ publications in renowned journals and conferences. His research interests include Ecological Informatics, Computer Vision, AI-enabled IoT/IoMTs,IIoTs, Smart Cities, Cyber Security, and Privacy.
+
+
 
 - 🔭 I’m currently working on [Plant Disease Detection](https://en.wikipedia.org/wiki/Plant_pathology)
 
