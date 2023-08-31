@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with **funding**
 
-- 👨‍💻 All of my projects are available at [https://www.researchgate.net/profile/Wasswa-Shafik-2](https://www.researchgate.net/profile/Wasswa-Shafik-2)
+- 👨‍💻 All of my projects are available at [Wasswa Shafik Website]([https://www.researchgate.net/profile/Wasswa-Shafik-2](https://sites.google.com/view/wasswashafik/publication?authuser=0)
 
 - 📝 I regularly write articles on [https://scholar.google.com/citations?user=xx9fMxYAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=xx9fMxYAAAAJ&hl=en&oi=ao)
 
 - 💬 Ask me about **Plant Pathology, Computer Security, Medical Internet of Things**
 
-- 📫 How to reach me **wasswashafik@dcrlab.org**
+- 📫 How to reach me **wasswashafik [at] dcrlab [dot] org**
 
 - ⚡ Fun fact **I often prefer peace to be right.**
 
