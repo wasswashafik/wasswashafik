@@ -1,6 +1,8 @@
-<h1 align="center">Welcome 👋, I'm Wasswa Shafik</h1>
-<h3 align="center"> Artificial Intelligence, Computer Vision and Privacy & Security researcher</h3>
+<h1 align="center">Welcome 👋</h1>
+<h3 align="center"> This is the official github account for Wasswa Shafik</h3>
 
-(Member, IEEE, DCRLab) is a computer scientist, information technologist, and principal investigator at the Dig Connectivity Research Laboratory (DCRLab). Broadly interested in Artificial Intelligence, Machine Learning, and Smart Cities. My research focuses on developing principled computationally and statistically efficient models and algorithms for various machine learning problems in **Ecological Informatics, Computer Vision, AI-enabled IoTs/IoMTs/IIoT, Cybersecurity and Privacy, and Smart Cities.** Obtained a master's degree in Information Technology Engineering (Persian) from Yazd University, Yazd, Iran, with a thesis under the supervision of Ass. Prof. Seyed Mojtaba Matinkhah and Prof. Mohammad Ghasemadeh, and a bachelor's degree in Information Technology Engineering (English) at the Faculty of Science & Computing, Ndejje University, a final year project supervised by Dr. Muchake Brian, all focused on Networks, Automation, and Control. Previously, as a department fellow, I was a researcher associate at the Intelligent Network Laboratory. I served in different capacities as a community data officer, research associate, data manager, research assistant, and teaching assistant at Pace-Uganda, TechnoServe, Population Services International (PSI-Uganda), and Socio-economic data center (Sedc-Uganda) as a research assistant for five years. Reach me at **wasswashafik [at] dcrlab [dot] org** or **wasswashafik [at] IEEE [dot] org**
+I only share codes for my projects in *Matlab*, *PureBasic* and *.Python*. 
+
+Reach me at **wasswashafik [at] dcrlab [dot] org** or **wasswashafik [at] IEEE [dot] org**
 
 
