@@ -13,7 +13,7 @@ This GitHub repository contains code that I have developed independently, as wel
 
 The code is shared to promote research transparency, reproducibility, and knowledge sharing. Reproduced implementations are intended to facilitate the understanding, evaluation, and validation of methods presented in the corresponding publications. Please note that not all code in this repository is my original work. The origin, ownership, and contributions associated with individual implementations should be understood in the context of their respective sources and references.
 
-For inquiries, clarifications, or further information, please contact me at ws [at] ieee [dot] org, where w stands for <wasswa> and s stands for <shafik>.
+For inquiries, clarifications, or further information, please contact me at ws [at] ieee [dot] org, where w stands for (wasswa), and s stands for (shafik).
 
 Cheers
 
