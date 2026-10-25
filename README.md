@@ -9,7 +9,11 @@ He received his PhD in Digital Science (Computer Science) at Universiti Brunei D
 
 His research broadly examines, integrates, and focuses on developing computationally and statistically efficient models and algorithms to address complex questions about artificial intelligence and machine learning problems. His specific research interests include sustainable development, smart agriculture, computer vision, ecological informatics, applied artificial intelligence, the Internet of Things, cybersecurity and privacy, and smart computing.
 
-For more background details, visit https://sites.google.com/view/wasswashafik/home?authuser=0
+This GitHub repository contains code that I have developed independently, as well as code that I have reproduced from existing research for educational and research purposes. Where applicable, appropriate credit and references are provided to the original authors and sources.
+
+The code is shared to promote research transparency, reproducibility, and knowledge sharing. Reproduced implementations are intended to facilitate the understanding, evaluation, and validation of methods presented in the corresponding publications. Please note that not all code in this repository is my original work. The origin, ownership, and contributions associated with individual implementations should be understood in the context of their respective sources and references.
+
+For inquiries, clarifications, or further information, please contact me at ws [at] ieee [dot] org, where w stands for Wasswa and s stands for Shafik.
 
 Cheers
 
