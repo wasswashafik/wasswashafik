@@ -3,7 +3,7 @@
 
 Hey, and thank you for stopping by!
 
-Wasswa Shafik (MIEEE) is a Computer Scientist, Information Technologist, Founder, and Team Lead at the Dig Connectivity Research Laboratory (DCRLab), Kampala, Uganda.
+I'am a Computer Scientist, Information Technologist, Founder, and Team Lead at the Dig Connectivity Research Laboratory (DCRLab), Kampala, Uganda.
 
 He received his PhD in Digital Science (Computer Science) at Universiti Brunei Darussalam, Brunei Darussalam, a master of Engineering in Information Technology Engineering (Computer and Communication Networks) from Yazd University, Iran, and a Bachelor of Science degree in Information Technology Engineering with a minor in mathematics from Ndejje University, Kampala, Uganda.
 
